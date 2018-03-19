@@ -44,7 +44,7 @@ Wire frame model
 Visual style
 Usability, UI, UX (creating interfaces for the best possible user experience)
 
-Creating a re-imagined layout in my wire frame model, using columns this time around as I did not utilize this in Sprint-2
+Creating a re-imagined layout in my wire frame model, using columns, boxifying the content this time around as I did not utilize this in Sprint-2.
 
 Would like to make some of following changes in this sprint: (if I have the time)
 
