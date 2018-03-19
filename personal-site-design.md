@@ -37,8 +37,6 @@ Planning
 -----------------
 Website Structure - As my site has graphics, basic layout, fonts, drop downs, return to home buttons and spaced out content. I have re-imagined the site in the wireframes, and hope that I can deliver on the above modifications.
 
-Technologies Used - Would like to use bootstrap and eventually as I understand it more, js. Really get into the nuts and bolts of css and using the right elements for the design.
-
 Design
 ------
 
@@ -46,16 +44,15 @@ Wire frame model
 Visual style
 Usability, UI, UX (creating interfaces for the best possible user experience)
 
-Creating a re-imagined layout in my wire frame model.
+Creating a re-imagined layout in my wire frame model, using columns this time around as I did not utilize this in Sprint-2
 
 Would like to make some of following changes in this sprint: (if I have the time)
 
 Focus on moulding my site into a responsive web design for better use on other devices
 Have the drop down appear and disappear when hovering taking full advantage of the full page for blogs. 
-Make sure the graphic cover the whole screen on all devices - (I've learnt a little it about this in the tutorials, but its only really touched one. I'd like to know more.)
+Make sure the graphic covers the whole screen on all devices - (I've learnt a little it about this in the tutorials, but its only really touched one. I'd like to know more.)
 Remove the icon bar and maybe create a great footer and logo
 Re imagine/relocate the "Back to homepage" buttons on the bottom of each page so that returns to the top of the page instead.
-
 
 Content
 --------
@@ -76,7 +73,7 @@ Browser compatibility - I will test this on as many browsers as I can
 Ask "Does the website fulfill its purpose?" - Will definitely work on this also
 
 
-Deploment
+Deployment
 ---------
 
 Monitor - This website is like a garden, I am always looking for ways to shape and improve it.
