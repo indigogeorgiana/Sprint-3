@@ -27,6 +27,8 @@ Sprint 3 - I've leanrnt a lot about process with all the lessons about RWD, wire
 
 Having already completed the some of Phase 1: Analysis and information gathering as stated above I have a pretty clear idea of what I think needs to be reimagined to achieve my redesign, a lot will be layout and some functions.  The site may look good, but to me everything is a work in progress. I like trying different colors graphics but I need to experiment more with code and really solidifying process.
 
+I spent far too much time working on the buttons, I tried several different scenario's but nothing really worked. I've learnt way more about padding, borders and margins in css this week.
+
 
 The Design Process
 
